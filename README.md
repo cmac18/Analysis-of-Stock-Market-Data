@@ -1,6 +1,5 @@
-# VBA-Challenge
-This project is a class assignment.
-I was tasked to use VBA scripting to analyze real stock market data. 
+In this class project, I was tasked to use VBA scripting to analyze real stock market data. 
+
 The instructions are as follows:
 1) Create a script that will loop through all the stocks for one year for each run and take the following information:
   a. The ticker symbol.
